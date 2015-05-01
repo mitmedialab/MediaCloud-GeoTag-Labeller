@@ -1,0 +1,645 @@
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 0)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '0', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878305 example tag
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878323 example_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878324 example_tag3
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878326 example_tag_2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878341 test_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+INFO:__main__:  modified 0 tags
+INFO:__main__:  took 0 seconds total
+INFO:__main__:Done
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 0)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '0', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878305 example tag
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878323 example_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878324 example_tag3
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878326 example_tag_2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878341 test_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+INFO:__main__:  modified 0 tags
+INFO:__main__:  took 0 seconds total
+INFO:__main__:Done
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 0)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '0', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878305 example tag
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878323 example_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878324 example_tag3
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878326 example_tag_2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878341 test_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 0)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '0', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878305 example tag
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878323 example_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878324 example_tag3
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878326 example_tag_2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878341 test_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 0)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '0', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878305 example tag
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878323 example_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878324 example_tag3
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878326 example_tag_2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878341 test_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+INFO:__main__:  modified 0 tags
+INFO:__main__:  took 0 seconds total
+INFO:__main__:Done
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 8878341)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '8878341', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878342 test_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878343 test_sentence_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878461 geonames_6252001
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6252001,"lon":-98.5,"name":"United States","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":39.76,"stateGeoNameId":"","population":310232863},"status":"ok","version":"2.1.1"}
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 8878341)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '8878341', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878342 test_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878343 test_sentence_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878461 geonames_6252001
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6252001,"lon":-98.5,"name":"United States","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":39.76,"stateGeoNameId":"","population":310232863},"status":"ok","version":"2.1.1"}
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 8878341)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '8878341', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878342 test_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878343 test_sentence_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878461 geonames_6252001
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6252001,"lon":-98.5,"name":"United States","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":39.76,"stateGeoNameId":"","population":310232863},"status":"ok","version":"2.1.1"}
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 8878341)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '8878341', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878342 test_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878343 test_sentence_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878461 geonames_6252001
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6252001,"lon":-98.5,"name":"United States","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":39.76,"stateGeoNameId":"","population":310232863},"status":"ok","version":"2.1.1"}
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 5 tags from tag set 1011 (starting at 8878341)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 5, 'last_tags_id': '8878341', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878342 test_tag2
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878343 test_sentence_tag1
+DEBUG:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878461 geonames_6252001
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6252001,"lon":-98.5,"name":"United States","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":39.76,"stateGeoNameId":"","population":310232863},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878461 with {'tag': u'geonames_6252001', 'description': u'United States | A | US', 'label': u'United States'}
+DEBUG:__main__:  updated geoname tag for United States 
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 100 tags from tag set 1011 (starting at 0)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/tags/list with {'rows': 100, 'last_tags_id': '0', 'public': 0, 'tag_sets_id': '1011'}
+DEBUG:__main__:  tag 8878305 example tag
+INFO:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878323 example_tag2
+INFO:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878324 example_tag3
+INFO:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878326 example_tag_2
+INFO:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878341 test_tag1
+INFO:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878342 test_tag2
+INFO:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878343 test_sentence_tag1
+INFO:__main__:  doesn't start with 'geonames_'... ignoring
+DEBUG:__main__:  tag 8878461 geonames_6252001
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6252001,"lon":-98.5,"name":"United States","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":39.76,"stateGeoNameId":"","population":310232863},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878461 with {'tag': u'geonames_6252001', 'description': u'United States | A | US', 'label': u'United States'}
+INFO:__main__:  updated tag 8878461 for United States (6252001)
+DEBUG:__main__:  tag 8878462 geonames_5110302
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5110302,"lon":-73.94958,"name":"Brooklyn","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"NY","lat":40.6501,"stateGeoNameId":"5128638","population":2300664},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878462 with {'tag': u'geonames_5110302', 'description': u'Brooklyn | P | US', 'label': u'Brooklyn'}
+INFO:__main__:  updated tag 8878462 for Brooklyn (5110302)
+DEBUG:__main__:  tag 8878463 geonames_5128638
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5128638,"lon":-75.4999,"name":"New York","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"NY","lat":43.00035,"stateGeoNameId":"5128638","population":19274244},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878463 with {'tag': u'geonames_5128638', 'description': u'New York | A | US', 'label': u'New York'}
+INFO:__main__:  updated tag 8878463 for New York (5128638)
+DEBUG:__main__:  tag 8878464 geonames_4914725
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4914725,"lon":-90.4279,"name":"Vermont","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"IL","lat":40.29421,"stateGeoNameId":"4896861","population":667},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878464 with {'tag': u'geonames_4914725', 'description': u'Vermont | P | US', 'label': u'Vermont'}
+INFO:__main__:  updated tag 8878464 for Vermont (4914725)
+DEBUG:__main__:  tag 8878465 geonames_5144050
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5144050,"lon":-73.75339,"name":"Westchester County","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM2","featureClass":"A","stateCode":"NY","lat":41.15148,"stateGeoNameId":"5128638","population":949113},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878465 with {'tag': u'geonames_5144050', 'description': u'Westchester County | A | US', 'label': u'Westchester County'}
+INFO:__main__:  updated tag 8878465 for Westchester County (5144050)
+DEBUG:__main__:  tag 8878466 geonames_2635167
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2635167,"lon":-2.69531,"name":"United Kingdom of Great Britain and Northern Ireland","countryGeoNameId":"2635167","countryCode":"GB","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":54.75844,"stateGeoNameId":"","population":62348447},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878466 with {'tag': u'geonames_2635167', 'description': u'United Kingdom of Great Britain and Northern Ireland | A | GB', 'label': u'United Kingdom of Great Britain and Northern Ireland'}
+INFO:__main__:  updated tag 8878466 for United Kingdom of Great Britain and Northern Ireland (2635167)
+DEBUG:__main__:  tag 8878467 geonames_6269131
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6269131,"lon":-0.70312,"name":"England","countryGeoNameId":"2635167","countryCode":"GB","featureCode":"ADM1","featureClass":"A","stateCode":"ENG","lat":52.16045,"stateGeoNameId":"6269131","population":50000000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878467 with {'tag': u'geonames_6269131', 'description': u'England | A | GB', 'label': u'England'}
+INFO:__main__:  updated tag 8878467 for England (6269131)
+DEBUG:__main__:  tag 8878468 geonames_6255148
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6255148,"lon":9.14062,"name":"Europe","countryGeoNameId":"","countryCode":"","featureCode":"CONT","featureClass":"L","stateCode":"","lat":48.69096,"stateGeoNameId":"","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878468 with {'tag': u'geonames_6255148', 'description': u'Europe | L | ', 'label': u'Europe'}
+INFO:__main__:  updated tag 8878468 for Europe (6255148)
+DEBUG:__main__:  tag 8878469 geonames_2963597
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2963597,"lon":-8.0,"name":"Ireland","countryGeoNameId":"2963597","countryCode":"IE","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":53.0,"stateGeoNameId":"","population":4622917},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878469 with {'tag': u'geonames_2963597', 'description': u'Ireland | A | IE', 'label': u'Ireland'}
+INFO:__main__:  updated tag 8878469 for Ireland (2963597)
+DEBUG:__main__:  tag 8878470 geonames_3017382
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3017382,"lon":2.0,"name":"Republic of France","countryGeoNameId":"3017382","countryCode":"FR","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":46.0,"stateGeoNameId":"","population":64768389},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878470 with {'tag': u'geonames_3017382', 'description': u'Republic of France | A | FR', 'label': u'Republic of France'}
+INFO:__main__:  updated tag 8878470 for Republic of France (3017382)
+DEBUG:__main__:  tag 8878471 geonames_390903
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":390903,"lon":22.0,"name":"Hellenic Republic","countryGeoNameId":"390903","countryCode":"GR","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":39.0,"stateGeoNameId":"","population":11000000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878471 with {'tag': u'geonames_390903', 'description': u'Hellenic Republic | A | GR', 'label': u'Hellenic Republic'}
+INFO:__main__:  updated tag 8878471 for Hellenic Republic (390903)
+DEBUG:__main__:  tag 8878472 geonames_2960313
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2960313,"lon":6.16667,"name":"Grand Duchy of Luxembourg","countryGeoNameId":"2960313","countryCode":"LU","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":49.75,"stateGeoNameId":"","population":497538},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878472 with {'tag': u'geonames_2960313', 'description': u'Grand Duchy of Luxembourg | A | LU', 'label': u'Grand Duchy of Luxembourg'}
+INFO:__main__:  updated tag 8878472 for Grand Duchy of Luxembourg (2960313)
+DEBUG:__main__:  tag 8878473 geonames_2643743
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2643743,"lon":-0.12574,"name":"London","countryGeoNameId":"2635167","countryCode":"GB","featureCode":"PPLC","featureClass":"P","stateCode":"ENG","lat":51.50853,"stateGeoNameId":"6269131","population":7556900},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878473 with {'tag': u'geonames_2643743', 'description': u'London | P | GB', 'label': u'London'}
+INFO:__main__:  updated tag 8878473 for London (2643743)
+DEBUG:__main__:  tag 8878474 geonames_2782113
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2782113,"lon":13.33333,"name":"Republic of Austria","countryGeoNameId":"2782113","countryCode":"AT","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":47.33333,"stateGeoNameId":"","population":8205000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878474 with {'tag': u'geonames_2782113', 'description': u'Republic of Austria | A | AT', 'label': u'Republic of Austria'}
+INFO:__main__:  updated tag 8878474 for Republic of Austria (2782113)
+DEBUG:__main__:  tag 8878475 geonames_2770542
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2770542,"lon":15.75,"name":"Niederösterreich","countryGeoNameId":"2782113","countryCode":"AT","featureCode":"ADM1","featureClass":"A","stateCode":"03","lat":48.33333,"stateGeoNameId":"2770542","population":1576622},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878475 with {'tag': u'geonames_2770542', 'description': u'Nieder\xf6sterreich | A | AT', 'label': u'Nieder\xf6sterreich'}
+INFO:__main__:  updated tag 8878475 for Niederösterreich (2770542)
+DEBUG:__main__:  tag 8878476 geonames_2769274
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2769274,"lon":16.11667,"name":"Palm","countryGeoNameId":"2782113","countryCode":"AT","featureCode":"PPL","featureClass":"P","stateCode":"03","lat":47.63333,"stateGeoNameId":"2770542","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878476 with {'tag': u'geonames_2769274', 'description': u'Palm | P | AT', 'label': u'Palm'}
+INFO:__main__:  updated tag 8878476 for Palm (2769274)
+DEBUG:__main__:  tag 8878477 geonames_4155751
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4155751,"lon":-82.5001,"name":"Florida","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"FL","lat":28.75054,"stateGeoNameId":"4155751","population":17671452},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878477 with {'tag': u'geonames_4155751', 'description': u'Florida | A | US', 'label': u'Florida'}
+INFO:__main__:  updated tag 8878477 for Florida (4155751)
+DEBUG:__main__:  tag 8878478 geonames_1814991
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":1814991,"lon":105.0,"name":"People’s Republic of China","countryGeoNameId":"1814991","countryCode":"CN","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":35.0,"stateGeoNameId":"","population":1330044000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878478 with {'tag': u'geonames_1814991', 'description': u'People\u2019s Republic of China | A | CN', 'label': u'People\u2019s Republic of China'}
+INFO:__main__:  updated tag 8878478 for People’s Republic of China (1814991)
+DEBUG:__main__:  tag 8878479 geonames_4396425
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4396425,"lon":-91.05153,"name":"Louisiana","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"MO","lat":39.44894,"stateGeoNameId":"4398678","population":3364},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878479 with {'tag': u'geonames_4396425', 'description': u'Louisiana | P | US', 'label': u'Louisiana'}
+INFO:__main__:  updated tag 8878479 for Louisiana (4396425)
+DEBUG:__main__:  tag 8878480 geonames_4168773
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4168773,"lon":-82.11469,"name":"Plant City","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"FL","lat":28.01888,"stateGeoNameId":"4155751","population":34721},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878480 with {'tag': u'geonames_4168773', 'description': u'Plant City | P | US', 'label': u'Plant City'}
+INFO:__main__:  updated tag 8878480 for Plant City (4168773)
+DEBUG:__main__:  tag 8878481 geonames_5815135
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5815135,"lon":-120.50147,"name":"Washington","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"WA","lat":47.50012,"stateGeoNameId":"5815135","population":6271775},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878481 with {'tag': u'geonames_5815135', 'description': u'Washington | A | US', 'label': u'Washington'}
+INFO:__main__:  updated tag 8878481 for Washington (5815135)
+DEBUG:__main__:  tag 8878482 geonames_4896861
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4896861,"lon":-89.25037,"name":"Illinois","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"IL","lat":40.00032,"stateGeoNameId":"4896861","population":12772888},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878482 with {'tag': u'geonames_4896861', 'description': u'Illinois | A | US', 'label': u'Illinois'}
+INFO:__main__:  updated tag 8878482 for Illinois (4896861)
+DEBUG:__main__:  tag 8878483 geonames_4398678
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4398678,"lon":-92.50046,"name":"Missouri","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"MO","lat":38.25031,"stateGeoNameId":"4398678","population":5768151},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878483 with {'tag': u'geonames_4398678', 'description': u'Missouri | A | US', 'label': u'Missouri'}
+INFO:__main__:  updated tag 8878483 for Missouri (4398678)
+DEBUG:__main__:  tag 8878484 geonames_5101760
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5101760,"lon":-74.49987,"name":"New Jersey","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"NJ","lat":40.16706,"stateGeoNameId":"5101760","population":8751436},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878484 with {'tag': u'geonames_5101760', 'description': u'New Jersey | A | US', 'label': u'New Jersey'}
+INFO:__main__:  updated tag 8878484 for New Jersey (5101760)
+DEBUG:__main__:  tag 8878485 geonames_4887398
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4887398,"lon":-87.65005,"name":"Chicago","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"IL","lat":41.85003,"stateGeoNameId":"4896861","population":2695598},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878485 with {'tag': u'geonames_4887398', 'description': u'Chicago | P | US', 'label': u'Chicago'}
+INFO:__main__:  updated tag 8878485 for Chicago (4887398)
+DEBUG:__main__:  tag 8878486 geonames_5128581
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5128581,"lon":-74.00597,"name":"New York City","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NY","lat":40.71427,"stateGeoNameId":"5128638","population":8175133},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878486 with {'tag': u'geonames_5128581', 'description': u'New York City | P | US', 'label': u'New York City'}
+INFO:__main__:  updated tag 8878486 for New York City (5128581)
+DEBUG:__main__:  tag 8878487 geonames_5112540
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5112540,"lon":-73.99625,"name":"Chinatown","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLX","featureClass":"P","stateCode":"NY","lat":40.71649,"stateGeoNameId":"5128638","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878487 with {'tag': u'geonames_5112540', 'description': u'Chinatown | P | US', 'label': u'Chinatown'}
+INFO:__main__:  updated tag 8878487 for Chinatown (5112540)
+DEBUG:__main__:  tag 8878488 geonames_5105496
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5105496,"lon":-74.74294,"name":"Trenton","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA","featureClass":"P","stateCode":"NJ","lat":40.21705,"stateGeoNameId":"5101760","population":84913},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878488 with {'tag': u'geonames_5105496', 'description': u'Trenton | P | US', 'label': u'Trenton'}
+INFO:__main__:  updated tag 8878488 for Trenton (5105496)
+DEBUG:__main__:  tag 8878489 geonames_4943909
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4943909,"lon":-71.39184,"name":"Middlesex County","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM2","featureClass":"A","stateCode":"MA","lat":42.48555,"stateGeoNameId":"6254926","population":1503085},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878489 with {'tag': u'geonames_4943909', 'description': u'Middlesex County | A | US', 'label': u'Middlesex County'}
+INFO:__main__:  updated tag 8878489 for Middlesex County (4943909)
+DEBUG:__main__:  tag 8878490 geonames_5102713
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5102713,"lon":-74.39904,"name":"Piscataway","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NJ","lat":40.49927,"stateGeoNameId":"5101760","population":56044},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878490 with {'tag': u'geonames_5102713', 'description': u'Piscataway | P | US', 'label': u'Piscataway'}
+INFO:__main__:  updated tag 8878490 for Piscataway (5102713)
+DEBUG:__main__:  tag 8878491 geonames_4169345
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4169345,"lon":-80.40894,"name":"Princeton","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"FL","lat":25.53844,"stateGeoNameId":"4155751","population":22038},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878491 with {'tag': u'geonames_4169345', 'description': u'Princeton | P | US', 'label': u'Princeton'}
+INFO:__main__:  updated tag 8878491 for Princeton (4169345)
+DEBUG:__main__:  tag 8878492 geonames_5103269
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5103269,"lon":-74.11653,"name":"Ridgewood","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NJ","lat":40.97926,"stateGeoNameId":"5101760","population":24958},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878492 with {'tag': u'geonames_5103269', 'description': u'Ridgewood | P | US', 'label': u'Ridgewood'}
+INFO:__main__:  updated tag 8878492 for Ridgewood (5103269)
+DEBUG:__main__:  tag 8878493 geonames_5103583
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5103583,"lon":-74.41071,"name":"Rutgers","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NJ","lat":40.48816,"stateGeoNameId":"5101760","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878493 with {'tag': u'geonames_5103583', 'description': u'Rutgers | P | US', 'label': u'Rutgers'}
+INFO:__main__:  updated tag 8878493 for Rutgers (5103583)
+DEBUG:__main__:  tag 8878494 geonames_3078364
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3078364,"lon":14.38364,"name":"Buš","countryGeoNameId":"3077311","countryCode":"CZ","featureCode":"PPL","featureClass":"P","stateCode":"88","lat":49.80317,"stateGeoNameId":"3339576","population":219},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878494 with {'tag': u'geonames_3078364', 'description': u'Bu\u0161 | P | CZ', 'label': u'Bu\u0161'}
+INFO:__main__:  updated tag 8878494 for Buš (3078364)
+DEBUG:__main__:  tag 8878495 geonames_6954598
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6954598,"lon":6.89695,"name":"Watertoren N.J. Menko","countryGeoNameId":"2750405","countryCode":"NL","featureCode":"TOWR","featureClass":"S","stateCode":"15","lat":52.23323,"stateGeoNameId":"2748838","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878495 with {'tag': u'geonames_6954598', 'description': u'Watertoren N.J. Menko | S | NL', 'label': u'Watertoren N.J. Menko'}
+INFO:__main__:  updated tag 8878495 for Watertoren N.J. Menko (6954598)
+DEBUG:__main__:  tag 8878496 geonames_5119218
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5119218,"lon":-73.72846,"name":"Great Neck","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NY","lat":40.80066,"stateGeoNameId":"5128638","population":9989},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878496 with {'tag': u'geonames_5119218', 'description': u'Great Neck | P | US', 'label': u'Great Neck'}
+INFO:__main__:  updated tag 8878496 for Great Neck (5119218)
+DEBUG:__main__:  tag 8878497 geonames_4970331
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4970331,"lon":-70.17116,"name":"Long Island","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"ME","lat":43.68425,"stateGeoNameId":"4971068","population":210},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878497 with {'tag': u'geonames_4970331', 'description': u'Long Island | P | US', 'label': u'Long Island'}
+INFO:__main__:  updated tag 8878497 for Long Island (4970331)
+DEBUG:__main__:  tag 8878498 geonames_6269133
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6269133,"lon":35.85869,"name":"Middle East","countryGeoNameId":"","countryCode":"","featureCode":"RGN","featureClass":"L","stateCode":"","lat":33.13906,"stateGeoNameId":"","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878498 with {'tag': u'geonames_6269133', 'description': u'Middle East | L | ', 'label': u'Middle East'}
+INFO:__main__:  updated tag 8878498 for Middle East (6269133)
+DEBUG:__main__:  tag 8878499 geonames_5125771
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5125771,"lon":-73.96625,"name":"Manhattan","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"NY","lat":40.78343,"stateGeoNameId":"5128638","population":1487536},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878499 with {'tag': u'geonames_5125771', 'description': u'Manhattan | P | US', 'label': u'Manhattan'}
+INFO:__main__:  updated tag 8878499 for Manhattan (5125771)
+DEBUG:__main__:  tag 8878500 geonames_5132029
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5132029,"lon":-73.69819,"name":"Port Washington","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NY","lat":40.82566,"stateGeoNameId":"5128638","population":15846},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878500 with {'tag': u'geonames_5132029', 'description': u'Port Washington | P | US', 'label': u'Port Washington'}
+INFO:__main__:  updated tag 8878500 for Port Washington (5132029)
+DEBUG:__main__:  tag 8878501 geonames_294640
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":294640,"lon":34.75,"name":"State of Israel","countryGeoNameId":"294640","countryCode":"IL","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":31.5,"stateGeoNameId":"","population":7353985},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878501 with {'tag': u'geonames_294640', 'description': u'State of Israel | A | IL', 'label': u'State of Israel'}
+INFO:__main__:  updated tag 8878501 for State of Israel (294640)
+DEBUG:__main__:  tag 8878502 geonames_4437935
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4437935,"lon":-89.11923,"name":"Myrtle","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"MS","lat":34.55843,"stateGeoNameId":"4436296","population":490},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878502 with {'tag': u'geonames_4437935', 'description': u'Myrtle | P | US', 'label': u'Myrtle'}
+INFO:__main__:  updated tag 8878502 for Myrtle (4437935)
+DEBUG:__main__:  tag 8878503 geonames_130758
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":130758,"lon":53.0,"name":"Islamic Republic of Iran","countryGeoNameId":"130758","countryCode":"IR","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":32.0,"stateGeoNameId":"","population":76923300},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878503 with {'tag': u'geonames_130758', 'description': u'Islamic Republic of Iran | A | IR', 'label': u'Islamic Republic of Iran'}
+INFO:__main__:  updated tag 8878503 for Islamic Republic of Iran (130758)
+DEBUG:__main__:  tag 8878504 geonames_5125767
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5125767,"lon":-73.73053,"name":"Manhasset Bay","countryGeoNameId":"6252001","countryCode":"US","featureCode":"BAY","featureClass":"H","stateCode":"NY","lat":40.83159,"stateGeoNameId":"5128638","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878504 with {'tag': u'geonames_5125767', 'description': u'Manhasset Bay | H | US', 'label': u'Manhasset Bay'}
+INFO:__main__:  updated tag 8878504 for Manhasset Bay (5125767)
+DEBUG:__main__:  tag 8878505 geonames_281184
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":281184,"lon":35.21633,"name":"Jerusalem","countryGeoNameId":"294640","countryCode":"IL","featureCode":"PPLA","featureClass":"P","stateCode":"06","lat":31.76904,"stateGeoNameId":"293198","population":801000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878505 with {'tag': u'geonames_281184', 'description': u'Jerusalem | P | IL', 'label': u'Jerusalem'}
+INFO:__main__:  updated tag 8878505 for Jerusalem (281184)
+DEBUG:__main__:  tag 8878506 geonames_6499657
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6499657,"lon":-123.3742,"name":"Gatsby Mansion Inn","countryGeoNameId":"6251999","countryCode":"CA","featureCode":"HTL","featureClass":"S","stateCode":"02","lat":48.4217,"stateGeoNameId":"5909050","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878506 with {'tag': u'geonames_6499657', 'description': u'Gatsby Mansion Inn | S | CA', 'label': u'Gatsby Mansion Inn'}
+INFO:__main__:  updated tag 8878506 for Gatsby Mansion Inn (6499657)
+DEBUG:__main__:  tag 8878507 geonames_360630
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":360630,"lon":31.24967,"name":"Cairo","countryGeoNameId":"357994","countryCode":"EG","featureCode":"PPLC","featureClass":"P","stateCode":"11","lat":30.06263,"stateGeoNameId":"360631","population":7734614},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878507 with {'tag': u'geonames_360630', 'description': u'Cairo | P | EG', 'label': u'Cairo'}
+INFO:__main__:  updated tag 8878507 for Cairo (360630)
+DEBUG:__main__:  tag 8878508 geonames_5734089
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5734089,"lon":-117.0543,"name":"Jordan Valley","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"OR","lat":42.97404,"stateGeoNameId":"5744337","population":181},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878508 with {'tag': u'geonames_5734089', 'description': u'Jordan Valley | P | US', 'label': u'Jordan Valley'}
+INFO:__main__:  updated tag 8878508 for Jordan Valley (5734089)
+DEBUG:__main__:  tag 8878509 geonames_5096281
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5096281,"lon":-74.9035,"name":"Capitol Hill","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NJ","lat":40.05539,"stateGeoNameId":"5101760","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878509 with {'tag': u'geonames_5096281', 'description': u'Capitol Hill | P | US', 'label': u'Capitol Hill'}
+INFO:__main__:  updated tag 8878509 for Capitol Hill (5096281)
+DEBUG:__main__:  tag 8878510 geonames_5844096
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5844096,"lon":-111.79576,"name":"American Fork","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"UT","lat":40.3769,"stateGeoNameId":"5549030","population":26263},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878510 with {'tag': u'geonames_5844096', 'description': u'American Fork | P | US', 'label': u'American Fork'}
+INFO:__main__:  updated tag 8878510 for American Fork (5844096)
+DEBUG:__main__:  tag 8878511 geonames_282239
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":282239,"lon":35.20422,"name":"Ramallah","countryGeoNameId":"6254930","countryCode":"PS","featureCode":"PPL","featureClass":"P","stateCode":"WE","lat":31.89964,"stateGeoNameId":"285153","population":24599},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878511 with {'tag': u'geonames_282239', 'description': u'Ramallah | P | PS', 'label': u'Ramallah'}
+INFO:__main__:  updated tag 8878511 for Ramallah (282239)
+DEBUG:__main__:  tag 8878512 geonames_3658394
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3658394,"lon":-78.25,"name":"Republic of Ecuador","countryGeoNameId":"3658394","countryCode":"EC","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":-1.25,"stateGeoNameId":"","population":14790608},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878512 with {'tag': u'geonames_3658394', 'description': u'Republic of Ecuador | A | EC', 'label': u'Republic of Ecuador'}
+INFO:__main__:  updated tag 8878512 for Republic of Ecuador (3658394)
+DEBUG:__main__:  tag 8878513 geonames_3653224
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3653224,"lon":-78.5,"name":"Provincia de Pichincha","countryGeoNameId":"3658394","countryCode":"EC","featureCode":"ADM1","featureClass":"A","stateCode":"18","lat":-0.08333,"stateGeoNameId":"3653224","population":2576287},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878513 with {'tag': u'geonames_3653224', 'description': u'Provincia de Pichincha | A | EC', 'label': u'Provincia de Pichincha'}
+INFO:__main__:  updated tag 8878513 for Provincia de Pichincha (3653224)
+DEBUG:__main__:  tag 8878514 geonames_3686110
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3686110,"lon":-73.25,"name":"Republic of Colombia","countryGeoNameId":"3686110","countryCode":"CO","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":4.0,"stateGeoNameId":"","population":47790000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878514 with {'tag': u'geonames_3686110', 'description': u'Republic of Colombia | A | CO', 'label': u'Republic of Colombia'}
+INFO:__main__:  updated tag 8878514 for Republic of Colombia (3686110)
+DEBUG:__main__:  tag 8878515 geonames_1819729
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":1819729,"lon":114.15769,"name":"Hong Kong","countryGeoNameId":"1819730","countryCode":"HK","featureCode":"PPLC","featureClass":"P","stateCode":"00","lat":22.28552,"stateGeoNameId":"","population":7012738},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878515 with {'tag': u'geonames_1819729', 'description': u'Hong Kong | P | HK', 'label': u'Hong Kong'}
+INFO:__main__:  updated tag 8878515 for Hong Kong (1819729)
+DEBUG:__main__:  tag 8878516 geonames_3932488
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3932488,"lon":-75.25,"name":"Republic of Peru","countryGeoNameId":"3932488","countryCode":"PE","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":-10.0,"stateGeoNameId":"","population":29907003},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878516 with {'tag': u'geonames_3932488', 'description': u'Republic of Peru | A | PE', 'label': u'Republic of Peru'}
+INFO:__main__:  updated tag 8878516 for Republic of Peru (3932488)
+DEBUG:__main__:  tag 8878517 geonames_3865483
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3865483,"lon":-64.0,"name":"Argentine Republic","countryGeoNameId":"3865483","countryCode":"AR","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":-34.0,"stateGeoNameId":"","population":41343201},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878517 with {'tag': u'geonames_3865483', 'description': u'Argentine Republic | A | AR', 'label': u'Argentine Republic'}
+INFO:__main__:  updated tag 8878517 for Argentine Republic (3865483)
+DEBUG:__main__:  tag 8878518 geonames_5119418
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5119418,"lon":-74.00292,"name":"Greenwich Village","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NY","lat":40.72844,"stateGeoNameId":"5128638","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878518 with {'tag': u'geonames_5119418', 'description': u'Greenwich Village | P | US', 'label': u'Greenwich Village'}
+INFO:__main__:  updated tag 8878518 for Greenwich Village (5119418)
+DEBUG:__main__:  tag 8878519 geonames_3625428
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3625428,"lon":-66.0,"name":"Bolivarian Republic of Venezuela","countryGeoNameId":"3625428","countryCode":"VE","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":8.0,"stateGeoNameId":"","population":27223228},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878519 with {'tag': u'geonames_3625428', 'description': u'Bolivarian Republic of Venezuela | A | VE', 'label': u'Bolivarian Republic of Venezuela'}
+INFO:__main__:  updated tag 8878519 for Bolivarian Republic of Venezuela (3625428)
+DEBUG:__main__:  tag 8878520 geonames_7255428
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":7255428,"lon":-73.99333,"name":"Cinema Village","countryGeoNameId":"6252001","countryCode":"US","featureCode":"BLDG","featureClass":"S","stateCode":"NY","lat":40.73389,"stateGeoNameId":"5128638","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878520 with {'tag': u'geonames_7255428', 'description': u'Cinema Village | S | US', 'label': u'Cinema Village'}
+INFO:__main__:  updated tag 8878520 for Cinema Village (7255428)
+DEBUG:__main__:  tag 8878521 geonames_3646738
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3646738,"lon":-66.87919,"name":"Caracas","countryGeoNameId":"3625428","countryCode":"VE","featureCode":"PPLC","featureClass":"P","stateCode":"25","lat":10.48801,"stateGeoNameId":"3640847","population":3000000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878521 with {'tag': u'geonames_3646738', 'description': u'Caracas | P | VE', 'label': u'Caracas'}
+INFO:__main__:  updated tag 8878521 for Caracas (3646738)
+DEBUG:__main__:  tag 8878522 geonames_3652462
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3652462,"lon":-78.52495,"name":"Quito","countryGeoNameId":"3658394","countryCode":"EC","featureCode":"PPLC","featureClass":"P","stateCode":"18","lat":-0.22985,"stateGeoNameId":"3653224","population":1399814},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878522 with {'tag': u'geonames_3652462', 'description': u'Quito | P | EC', 'label': u'Quito'}
+INFO:__main__:  updated tag 8878522 for Quito (3652462)
+DEBUG:__main__:  tag 8878523 geonames_3657509
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":3657509,"lon":-79.90795,"name":"Guayaquil","countryGeoNameId":"3658394","countryCode":"EC","featureCode":"PPLA","featureClass":"P","stateCode":"10","lat":-2.20584,"stateGeoNameId":"3657505","population":1952029},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878523 with {'tag': u'geonames_3657509', 'description': u'Guayaquil | P | EC', 'label': u'Guayaquil'}
+INFO:__main__:  updated tag 8878523 for Guayaquil (3657509)
+DEBUG:__main__:  tag 8878524 geonames_4361885
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4361885,"lon":-76.74997,"name":"Maryland","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"MD","lat":39.00039,"stateGeoNameId":"4361885","population":5624246},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878524 with {'tag': u'geonames_4361885', 'description': u'Maryland | A | US', 'label': u'Maryland'}
+INFO:__main__:  updated tag 8878524 for Maryland (4361885)
+DEBUG:__main__:  tag 8878525 geonames_4347778
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4347778,"lon":-76.61219,"name":"Baltimore","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"MD","lat":39.29038,"stateGeoNameId":"4361885","population":620961},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878525 with {'tag': u'geonames_4347778', 'description': u'Baltimore | P | US', 'label': u'Baltimore'}
+INFO:__main__:  updated tag 8878525 for Baltimore (4347778)
+DEBUG:__main__:  tag 8878526 geonames_5098095
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5098095,"lon":-74.38821,"name":"Florham Park","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"NJ","lat":40.78788,"stateGeoNameId":"5101760","population":11696},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878526 with {'tag': u'geonames_5098095', 'description': u'Florham Park | P | US', 'label': u'Florham Park'}
+INFO:__main__:  updated tag 8878526 for Florham Park (5098095)
+DEBUG:__main__:  tag 8878527 geonames_6955101
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6955101,"lon":-82.51007,"name":"Tampa-St. Petersburg-Clearwater","countryGeoNameId":"6252001","countryCode":"US","featureCode":"RGNE","featureClass":"L","stateCode":"FL","lat":27.87307,"stateGeoNameId":"4155751","population":2733761},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878527 with {'tag': u'geonames_6955101', 'description': u'Tampa-St. Petersburg-Clearwater | L | US', 'label': u'Tampa-St. Petersburg-Clearwater'}
+INFO:__main__:  updated tag 8878527 for Tampa-St. Petersburg-Clearwater (6955101)
+DEBUG:__main__:  tag 8878528 geonames_4699066
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4699066,"lon":-95.36327,"name":"Houston","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"TX","lat":29.76328,"stateGeoNameId":"4736286","population":2099451},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878528 with {'tag': u'geonames_4699066', 'description': u'Houston | P | US', 'label': u'Houston'}
+INFO:__main__:  updated tag 8878528 for Houston (4699066)
+DEBUG:__main__:  tag 8878529 geonames_6167865
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6167865,"lon":-79.4163,"name":"Toronto","countryGeoNameId":"6251999","countryCode":"CA","featureCode":"PPLA","featureClass":"P","stateCode":"08","lat":43.70011,"stateGeoNameId":"6093943","population":2600000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878529 with {'tag': u'geonames_6167865', 'description': u'Toronto | P | CA', 'label': u'Toronto'}
+INFO:__main__:  updated tag 8878529 for Toronto (6167865)
+DEBUG:__main__:  tag 8878530 geonames_4197000
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4197000,"lon":-83.50018,"name":"Georgia","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"GA","lat":32.75042,"stateGeoNameId":"4197000","population":8975842},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878530 with {'tag': u'geonames_4197000', 'description': u'Georgia | A | US', 'label': u'Georgia'}
+INFO:__main__:  updated tag 8878530 for Georgia (4197000)
+DEBUG:__main__:  tag 8878531 geonames_6093943
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6093943,"lon":-84.49983,"name":"Ontario","countryGeoNameId":"6251999","countryCode":"CA","featureCode":"ADM1","featureClass":"A","stateCode":"08","lat":49.25014,"stateGeoNameId":"6093943","population":12861940},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878531 with {'tag': u'geonames_6093943', 'description': u'Ontario | A | CA', 'label': u'Ontario'}
+INFO:__main__:  updated tag 8878531 for Ontario (6093943)
+DEBUG:__main__:  tag 8878532 geonames_2641364
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2641364,"lon":-6.5,"name":"Northern Ireland","countryGeoNameId":"2635167","countryCode":"GB","featureCode":"ADM1","featureClass":"A","stateCode":"NIR","lat":54.5,"stateGeoNameId":"2641364","population":1829700},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878532 with {'tag': u'geonames_2641364', 'description': u'Northern Ireland | A | GB', 'label': u'Northern Ireland'}
+INFO:__main__:  updated tag 8878532 for Northern Ireland (2641364)
+DEBUG:__main__:  tag 8878533 geonames_5332921
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5332921,"lon":-119.75126,"name":"California","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"CA","lat":37.25022,"stateGeoNameId":"5332921","population":37691912},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878533 with {'tag': u'geonames_5332921', 'description': u'California | A | US', 'label': u'California'}
+INFO:__main__:  updated tag 8878533 for California (5332921)
+DEBUG:__main__:  tag 8878534 geonames_5037779
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5037779,"lon":-94.25055,"name":"Minnesota","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"MN","lat":46.25024,"stateGeoNameId":"5037779","population":5141953},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878534 with {'tag': u'geonames_5037779', 'description': u'Minnesota | A | US', 'label': u'Minnesota'}
+INFO:__main__:  updated tag 8878534 for Minnesota (5037779)
+DEBUG:__main__:  tag 8878535 geonames_2634895
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2634895,"lon":-3.5,"name":"Wales","countryGeoNameId":"2635167","countryCode":"GB","featureCode":"ADM1","featureClass":"A","stateCode":"WLS","lat":52.5,"stateGeoNameId":"2634895","population":3000000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878535 with {'tag': u'geonames_2634895', 'description': u'Wales | A | GB', 'label': u'Wales'}
+INFO:__main__:  updated tag 8878535 for Wales (2634895)
+DEBUG:__main__:  tag 8878536 geonames_5391959
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5391959,"lon":-122.41942,"name":"San Francisco","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"CA","lat":37.77493,"stateGeoNameId":"5332921","population":805235},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878536 with {'tag': u'geonames_5391959', 'description': u'San Francisco | P | US', 'label': u'San Francisco'}
+INFO:__main__:  updated tag 8878536 for San Francisco (5391959)
+DEBUG:__main__:  tag 8878537 geonames_5037649
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5037649,"lon":-93.26384,"name":"Minneapolis","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"MN","lat":44.97997,"stateGeoNameId":"5037779","population":382578},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878537 with {'tag': u'geonames_5037649', 'description': u'Minneapolis | P | US', 'label': u'Minneapolis'}
+INFO:__main__:  updated tag 8878537 for Minneapolis (5037649)
+DEBUG:__main__:  tag 8878538 geonames_4736286
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4736286,"lon":-99.25061,"name":"Texas","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"TX","lat":31.25044,"stateGeoNameId":"4736286","population":22875689},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878538 with {'tag': u'geonames_4736286', 'description': u'Texas | A | US', 'label': u'Texas'}
+INFO:__main__:  updated tag 8878538 for Texas (4736286)
+DEBUG:__main__:  tag 8878539 geonames_4164138
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4164138,"lon":-80.19366,"name":"Miami","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"FL","lat":25.77427,"stateGeoNameId":"4155751","population":399457},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878539 with {'tag': u'geonames_4164138', 'description': u'Miami | P | US', 'label': u'Miami'}
+INFO:__main__:  updated tag 8878539 for Miami (4164138)
+DEBUG:__main__:  tag 8878540 geonames_4180439
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4180439,"lon":-84.38798,"name":"Atlanta","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA","featureClass":"P","stateCode":"GA","lat":33.749,"stateGeoNameId":"4197000","population":420003},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878540 with {'tag': u'geonames_4180439', 'description': u'Atlanta | P | US', 'label': u'Atlanta'}
+INFO:__main__:  updated tag 8878540 for Atlanta (4180439)
+DEBUG:__main__:  tag 8878541 geonames_4173437
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4173437,"lon":-81.95703,"name":"South Florida Avenue Church","countryGeoNameId":"6252001","countryCode":"US","featureCode":"CH","featureClass":"S","stateCode":"FL","lat":28.02197,"stateGeoNameId":"4155751","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878541 with {'tag': u'geonames_4173437', 'description': u'South Florida Avenue Church | S | US', 'label': u'South Florida Avenue Church'}
+INFO:__main__:  updated tag 8878541 for South Florida Avenue Church (4173437)
+DEBUG:__main__:  tag 8878542 geonames_4155995
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4155995,"lon":-81.84059,"name":"Fort Myers","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"FL","lat":26.62168,"stateGeoNameId":"4155751","population":62298},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878542 with {'tag': u'geonames_4155995', 'description': u'Fort Myers | P | US', 'label': u'Fort Myers'}
+INFO:__main__:  updated tag 8878542 for Fort Myers (4155995)
+DEBUG:__main__:  tag 8878543 geonames_5368361
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5368361,"lon":-118.24368,"name":"Los Angeles","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPLA2","featureClass":"P","stateCode":"CA","lat":34.05223,"stateGeoNameId":"5332921","population":3792621},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878543 with {'tag': u'geonames_5368361', 'description': u'Los Angeles | P | US', 'label': u'Los Angeles'}
+INFO:__main__:  updated tag 8878543 for Los Angeles (5368361)
+DEBUG:__main__:  tag 8878544 geonames_6255149
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6255149,"lon":-100.54688,"name":"North America","countryGeoNameId":"","countryCode":"","featureCode":"CONT","featureClass":"L","stateCode":"","lat":46.07323,"stateGeoNameId":"","population":0},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878544 with {'tag': u'geonames_6255149', 'description': u'North America | L | ', 'label': u'North America'}
+INFO:__main__:  updated tag 8878544 for North America (6255149)
+DEBUG:__main__:  tag 8878545 geonames_5204294
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":5204294,"lon":-79.57393,"name":"Oklahoma","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"PA","lat":40.58145,"stateGeoNameId":"6254927","population":809},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878545 with {'tag': u'geonames_5204294', 'description': u'Oklahoma | P | US', 'label': u'Oklahoma'}
+INFO:__main__:  updated tag 8878545 for Oklahoma (5204294)
+DEBUG:__main__:  tag 8878546 geonames_4913373
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4913373,"lon":-90.8393,"name":"Tennessee","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"IL","lat":40.41199,"stateGeoNameId":"4896861","population":115},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878546 with {'tag': u'geonames_4913373', 'description': u'Tennessee | P | US', 'label': u'Tennessee'}
+INFO:__main__:  updated tag 8878546 for Tennessee (4913373)
+DEBUG:__main__:  tag 8878547 geonames_6254928
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6254928,"lon":-77.44675,"name":"Virginia","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"VA","lat":37.54812,"stateGeoNameId":"6254928","population":7642884},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878547 with {'tag': u'geonames_6254928', 'description': u'Virginia | A | US', 'label': u'Virginia'}
+INFO:__main__:  updated tag 8878547 for Virginia (6254928)
+DEBUG:__main__:  tag 8878548 geonames_6251999
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":6251999,"lon":-113.64258,"name":"Canada","countryGeoNameId":"6251999","countryCode":"CA","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":60.10867,"stateGeoNameId":"","population":33679000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878548 with {'tag': u'geonames_6251999', 'description': u'Canada | A | CA', 'label': u'Canada'}
+INFO:__main__:  updated tag 8878548 for Canada (6251999)
+DEBUG:__main__:  tag 8878549 geonames_4540051
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4540051,"lon":-94.79773,"name":"Kansas","countryGeoNameId":"6252001","countryCode":"US","featureCode":"PPL","featureClass":"P","stateCode":"OK","lat":36.20509,"stateGeoNameId":"4544379","population":802},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878549 with {'tag': u'geonames_4540051', 'description': u'Kansas | P | US', 'label': u'Kansas'}
+INFO:__main__:  updated tag 8878549 for Kansas (4540051)
+DEBUG:__main__:  tag 8878550 geonames_2641598
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2641598,"lon":-2.99835,"name":"Newport","countryGeoNameId":"2635167","countryCode":"GB","featureCode":"PPLA2","featureClass":"P","stateCode":"WLS","lat":51.58774,"stateGeoNameId":"2634895","population":117326},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878550 with {'tag': u'geonames_2641598', 'description': u'Newport | P | GB', 'label': u'Newport'}
+INFO:__main__:  updated tag 8878550 for Newport (2641598)
+DEBUG:__main__:  tag 8878551 geonames_1861060
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":1861060,"lon":139.75309,"name":"Japan","countryGeoNameId":"1861060","countryCode":"JP","featureCode":"PCLI","featureClass":"A","stateCode":"00","lat":35.68536,"stateGeoNameId":"","population":127288000},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878551 with {'tag': u'geonames_1861060', 'description': u'Japan | A | JP', 'label': u'Japan'}
+INFO:__main__:  updated tag 8878551 for Japan (1861060)
+DEBUG:__main__:  tag 8878552 geonames_2634894
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":2634894,"lon":-1.28162,"name":"Wales","countryGeoNameId":"2635167","countryCode":"GB","featureCode":"PPLA3","featureClass":"P","stateCode":"ENG","lat":53.34061,"stateGeoNameId":"6269131","population":5956},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878552 with {'tag': u'geonames_2634894', 'description': u'Wales | P | GB', 'label': u'Wales'}
+INFO:__main__:  updated tag 8878552 for Wales (2634894)
+DEBUG:__main__:  tag 8878553 geonames_4482348
+DEBUG:mediameter.cliff:CLIFF says {"results":{"id":4482348,"lon":-80.00032,"name":"North Carolina","countryGeoNameId":"6252001","countryCode":"US","featureCode":"ADM1","featureClass":"A","stateCode":"NC","lat":35.50069,"stateGeoNameId":"4482348","population":8611367},"status":"ok","version":"2.1.1"}
+DEBUG:mediacloud.api:query PUT to https://api.mediacloud.org/api/v2/tags/update/8878553 with {'tag': u'geonames_4482348', 'description': u'North Carolina | A | US', 'label': u'North Carolina'}
+INFO:__main__:  updated tag 8878553 for North Carolina (4482348)
+INFO:__main__:  modified 93 tags
+INFO:__main__:  took 56 seconds total
+INFO:__main__:Done
+INFO:__main__:---------------------------------------------------------------------------
+INFO:__main__:Labelling 100 tags from tag set 1011 (starting at 8878553)
+INFO:mediameter.cliff:CLIFF @ http://civicprod.media.mit.edu:8080
+INFO:__main__:  Connected to cliff at http://civicprod.media.mit.edu:8080
+INFO:__main__:  updated tag 8878554 for British Columbia (5909050)
+INFO:__main__:  updated tag 8878555 for Oakland Hills (4364243)
+INFO:__main__:  updated tag 8878556 for South Carolina (4597040)
+INFO:__main__:  updated tag 8878557 for Oregon (5165734)
+INFO:__main__:  updated tag 8878558 for Connecticut (4831725)
+INFO:__main__:  updated tag 8878559 for Portuguese Republic (2264397)
+INFO:__main__:  updated tag 8878560 for Southern Indiana Rehabilitation Hospital (7199376)
+INFO:__main__:  updated tag 8878561 for North Carolina State Reservation (4482338)
+INFO:__main__:  updated tag 8878562 for Madrid (3117735)
+INFO:__main__:  updated tag 8878563 for Whistler (6180144)
+INFO:__main__:  updated tag 8878564 for Armstrong (3865449)
+INFO:__main__:  updated tag 8878565 for Nagano-shi (1856215)
+INFO:__main__:  updated tag 8878566 for Pennsylvania (6254927)
+INFO:__main__:  updated tag 8878567 for Abū Z̧aby (292969)
+INFO:__main__:  updated tag 8878568 for Île-de-France (3012874)
+INFO:__main__:  updated tag 8878569 for Maine (4971068)
+INFO:__main__:  updated tag 8878570 for Old Republic Building (4904706)
+INFO:__main__:  updated tag 8878571 for Philadelphia (4560349)
+INFO:__main__:  updated tag 8878572 for Paris (2988507)
+INFO:__main__:  updated tag 8878573 for Johannesburg (993800)
+INFO:__main__:  updated tag 8878574 for Abu Dhabi (292968)
+INFO:__main__:  updated tag 8878575 for Federal Republic of Germany (2921044)
+INFO:__main__:  updated tag 8878576 for Louisiana (4331987)
+INFO:__main__:  updated tag 8878577 for Indiana (4921868)
+INFO:__main__:  updated tag 8878578 for Thuringia (2822542)
+INFO:__main__:  updated tag 8878579 for Baden-Württemberg Region (2953481)
+INFO:__main__:  updated tag 8878580 for West Virginia (4826850)
+INFO:__main__:  updated tag 8878581 for Alexandria (361058)
+INFO:__main__:  updated tag 8878582 for Iowa (4328676)
+INFO:__main__:  updated tag 8878583 for Indianapolis (4259418)
+INFO:__main__:  updated tag 8878584 for Des Moines (4853828)
+INFO:__main__:  updated tag 8878585 for Indiana (5194868)
+INFO:__main__:  updated tag 8878586 for Federative Republic of Brazil (3469034)
+INFO:__main__:  updated tag 8878587 for Kingdom of Spain (2510769)
+INFO:__main__:  updated tag 8878588 for Estancia Va. Victoria (3427545)
+INFO:__main__:  updated tag 8878589 for Erfurt (2929670)
+INFO:__main__:  updated tag 8878590 for Lilly (5198006)
+INFO:__main__:  updated tag 8878591 for Bellevue Hospital Center (5108701)
+INFO:__main__:  updated tag 8878592 for Weimar (2812482)
+INFO:__main__:  updated tag 8878593 for Betta (576623)
+INFO:__main__:  updated tag 8878594 for Geneva (4893591)
+INFO:__main__:  updated tag 8878595 for West (4740686)
+INFO:__main__:  updated tag 8878596 for German Democratic Republic (8354410)
+INFO:__main__:  updated tag 8878597 for Western Europe (7729881)
+INFO:__main__:  updated tag 8878598 for Şaḩārá (8052777)
+INFO:__main__:  updated tag 8878599 for Buchenwald (2607473)
+INFO:__main__:  updated tag 8878600 for Eastern Europe (7729884)
+INFO:__main__:  updated tag 8878601 for European Mine (5421377)
+INFO:__main__:  updated tag 8878602 for Republic of Haiti (3723988)
+INFO:__main__:  updated tag 8878603 for Beijing Shi (2038349)
+INFO:__main__:  updated tag 8878604 for Département de l'Ouest (3719432)
+INFO:__main__:  updated tag 8878605 for Republic of Singapore (1880251)
+INFO:__main__:  updated tag 8878606 for Beijing (1816670)
+INFO:__main__:  updated tag 8878607 for Asia (6255147)
+INFO:__main__:  updated tag 8878608 for Libya (2215636)
+INFO:__main__:  updated tag 8878609 for California (4350049)
+INFO:__main__:  updated tag 8878610 for Chinese Camp (5336487)
+INFO:__main__:  updated tag 8878611 for Ohio (4904612)
+INFO:__main__:  updated tag 8878612 for Silicon Valley (6940309)
+INFO:__main__:  updated tag 8878613 for Pétionville (3719028)
+INFO:__main__:  updated tag 8878614 for Port-au-Prince (3718426)
+INFO:__main__:  updated tag 8878615 for Canaan (4960036)
+INFO:__main__:  updated tag 8878616 for Jacmel (3723779)
+INFO:__main__:  updated tag 8878617 for Land Berlin (2950157)
+INFO:__main__:  updated tag 8878618 for Tropicana Colonia (4737680)
+INFO:__main__:  updated tag 8878619 for Democratic People’s Republic of Korea (1873107)
+INFO:__main__:  updated tag 8878620 for Kingdom of Sweden (2661886)
+INFO:__main__:  updated tag 8878621 for Berlin (2950159)
+INFO:__main__:  updated tag 8878622 for Brussels (4234671)
+INFO:__main__:  updated tag 8878623 for European Union (6695072)
+INFO:__main__:  updated tag 8878624 for State of New South Wales (2155400)
+INFO:__main__:  updated tag 8878625 for Republic of Iraq (99237)
+INFO:__main__:  updated tag 8878626 for Oxford (2640729)
+INFO:__main__:  updated tag 8878627 for North London (6692461)
+INFO:__main__:  updated tag 8878628 for Sydney (2147714)
+INFO:__main__:  updated tag 8878629 for Asia Pacific Breweries (1885203)
+INFO:__main__:  updated tag 8878630 for Museum of Asian Art (7911203)
+INFO:__main__:  updated tag 8878631 for Fort Washington (4355355)
+INFO:__main__:  updated tag 8878632 for Utah (5549030)
+INFO:__main__:  updated tag 8878633 for Emilia-Romagna (3177401)
+INFO:__main__:  updated tag 8878634 for Kansas (4273857)
+INFO:__main__:  updated tag 8878635 for Mount Vernon (5127835)
+INFO:__main__:  updated tag 8878636 for Berra (3182146)
+INFO:__main__:  updated tag 8878637 for Pittsburgh (5206379)
+INFO:__main__:  updated tag 8878638 for Forbes Field Airport (4271673)
+INFO:__main__:  updated tag 8878639 for Harlem (4199219)
+INFO:__main__:  updated tag 8878640 for Milwaukee (5263045)
+INFO:__main__:  updated tag 8878641 for Cleveland (5150529)
+INFO:__main__:  updated tag 8878642 for Charlotte (4460243)
+INFO:__main__:  updated tag 8878643 for Repubblica Italiana (3175395)
+INFO:__main__:  updated tag 8878644 for Lombardia (3174618)
+INFO:__main__:  updated tag 8878645 for Russian Federation (2017370)
+INFO:__main__:  updated tag 8878646 for Republic of Rwanda (49518)
+INFO:__main__:  updated tag 8878647 for Moskva (524894)
+INFO:__main__:  updated tag 8878648 for Moscow (524901)
+INFO:__main__:  updated tag 8878649 for Republic of the Sudan (366755)
+INFO:__main__:  updated tag 8878650 for Democratic Republic of the Congo (203312)
+INFO:__main__:  updated tag 8878651 for Republic of Korea (1835841)
+INFO:__main__:  updated tag 8878652 for Moskau City (6956700)
+INFO:__main__:  updated tag 8878653 for Republic of Uganda (226074)
+INFO:__main__:  modified 100 tags
+INFO:__main__:  took 65 seconds total
+INFO:__main__:Done

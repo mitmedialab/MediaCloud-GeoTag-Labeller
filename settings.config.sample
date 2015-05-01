@@ -1,0 +1,9 @@
+[mediacloud]
+key = MY_API_KEY
+geo_tag_sets_id = 0
+tags_to_label = 5
+last_tags_id = 0
+
+[cliff]
+host = http://127.0.0.1
+port = 8080
