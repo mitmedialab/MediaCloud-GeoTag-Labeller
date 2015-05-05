@@ -38,11 +38,15 @@ for tag in tags:
     if tag['tag'].startswith(GEONAMES_TAG_PREFIX):
         geonames_id = tag['tag'].replace(GEONAMES_TAG_PREFIX,"")
         tagged_count = tagged_count + 1
-        geoname = cliff.geonamesLookup(geonames_id)
-        tag_label = geoname['name']
-        tag_description = geoname['name'] + " | " + geoname['featureClass'] + " | " + geoname['countryCode']
-        mc.updateTag(tag['tags_id'],tag['tag'],tag_label,tag_description)
-        log.info("  updated tag %s for %s (%s)" % (tag['tags_id'],tag_label,geonames_id))
+        try:
+            geoname = cliff.geonamesLookup(geonames_id)
+            tag_label = geoname['name']
+            tag_description = geoname['name'] + " | " + geoname['featureClass'] + " | " + geoname['countryCode']
+            mc.updateTag(tag['tags_id'],tag['tag'],tag_label,tag_description)
+            log.info("  updated tag %s for %s (%s)" % (tag['tags_id'],tag_label,geonames_id))
+        except Exception as e:
+            log.error(" failed to process tag id %s - skipping it",tag['tags_id'])
+            log.exception(e)
     else:
         log.info("  doesn't start with '%s'... ignoring" % GEONAMES_TAG_PREFIX)
     new_last_tag_id = tag['tags_id']
