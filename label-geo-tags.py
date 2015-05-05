@@ -46,11 +46,10 @@ for tag in tags:
     else:
         log.info("  doesn't start with '%s'... ignoring" % GEONAMES_TAG_PREFIX)
     new_last_tag_id = tag['tags_id']
-
-# and save that we've made progress
-settings.set('mediacloud','last_tags_id',new_last_tag_id)
-with open(settings_file_path, 'wb') as configfile:
-    settings.write(configfile)
+    # and save that we've made progress (doing this after every one for better re-entry)
+    settings.set('mediacloud','last_tags_id',new_last_tag_id)
+    with open(settings_file_path, 'wb') as configfile:
+        settings.write(configfile)
 
 # log some stats about the run
 duration_secs = float(time.time() - start_time)
